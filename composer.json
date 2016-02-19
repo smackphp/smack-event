@@ -1,0 +1,15 @@
+{
+    "name": "smackphp/smack-event",
+    "description": "smackphp event package",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "daniel@smackphp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Smack\\Event\\": "src/"
+        }
+    }
+}
